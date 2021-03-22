@@ -6,7 +6,7 @@ from selenium.webdriver.common.keys import Keys
 PROMISED_DOWN = 20
 PROMISED_UP = 10
 TWITTER_NO = "rakeyshsingh045@gmail.com"
-TWITTER_PASSWORD = "hitman@4545"
+TWITTER_PASSWORD = "******"
 
 chrome_driver_path = "D:\Developer\chromedriver.exe"
 
